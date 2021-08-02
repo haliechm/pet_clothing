@@ -1,0 +1,35 @@
+body {
+    background-size: cover;
+    background-color: pink;
+}
+
+.navbar {
+    background-color: #D997E6;
+    list-style-type: none;
+    position: fixed;
+    height: 60px;
+    top: 0; 
+    left: 0;
+    right: 0;
+}
+
+#top_ {
+    background-image: url('http://img15.deviantart.net/c533/i/2015/108/9/4/clothes_line_golden_retriever_puppies_by_familyfunpack-d7aidwg.jpg');
+    width: 100vw;
+    height: 80vh;
+    /* background-size: 100% 100%; */
+    position: relative;
+    top: 0;
+    left: 0;
+    right: 0;
+    /* background-position: top center;
+    background-attachment: fixed; */
+    background-repeat: no-repeat;
+    /* background-size: cover;
+    color: green; */
+    /* background-repeat: no-repeat;
+    background-size: 50% 100%;
+    background-color: blue;*/
+} 
+
+
